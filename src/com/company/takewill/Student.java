@@ -9,10 +9,9 @@ public class Student {
     void printDetails() {
         printAge();
         printName();
-
-
-
     }
+
+
     void printName() {
         System.out.println("My name is " + name);
     }

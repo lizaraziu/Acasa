@@ -4,5 +4,5 @@ public class Triangle {
 
     int lengthOne;
     int lengthTwo;
-    int getLengthThree;
+    int lengthThree;
 }

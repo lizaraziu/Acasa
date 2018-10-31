@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e96290-8f20-4439-a3cc-d2a5aee77235" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/oioi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Insomnia/com/company/DiplayResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Insomnia/com/company/DiplayResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Insomnia/com/company/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Insomnia/com/company/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Insomnia/com/company/MarketManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Insomnia/com/company/MarketManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DiplayResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DiplayResult.java" afterDir="false" />
-    </list>
+    <list default="true" id="66e96290-8f20-4439-a3cc-d2a5aee77235" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-26" />
     <option name="width" value="1314" />
     <option name="height" value="574" />
@@ -197,7 +190,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540970632458" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540971293917" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -311,7 +304,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />

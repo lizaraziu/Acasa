@@ -27,7 +27,12 @@ public class MarketManager {
 
     public static void ReplaceItem(Market market, Item item, int index) {
 
-        market.items[index] = item;
+
+        if (index >= 0 && index < market.items.length) {
+            market.items[index] = item;
+        }else{
+            System.out.println(index + " nu poate fi negativ");
+        }
 
     }
 

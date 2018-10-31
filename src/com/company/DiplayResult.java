@@ -1,7 +1,7 @@
 package com.company;
 
 public class DiplayResult {
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         Market seven = new Market();
 
@@ -26,12 +26,13 @@ public class DiplayResult {
         item4.price = 50;
         seven.items[3] = item4 ;
 
-
+        System.out.println(MarketManager.getMostExpensiveItem(seven));
         System.out.println(MarketManager.getAveragePrice(seven));
+
 
         Item item5 = new Item();
 
-        MarketManager.ReplaceItem(seven,item5,3);
+        MarketManager.ReplaceItem(seven,item5,-3);
 
 
 
